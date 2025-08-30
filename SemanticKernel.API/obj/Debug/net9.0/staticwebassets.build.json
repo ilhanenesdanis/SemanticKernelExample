@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OCAz/sW8jBNfC5rLvyo2N6dljkTRFiFJDcmBb5y2DZk=",
+  "Source": "SemanticKernel.API",
+  "BasePath": "_content/SemanticKernel.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
