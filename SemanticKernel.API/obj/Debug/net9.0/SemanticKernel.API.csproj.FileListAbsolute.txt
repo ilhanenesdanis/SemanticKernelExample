@@ -53,3 +53,4 @@
 /Users/ilhanenesdanis/Desktop/DotnetProjects/SemanticKernelExample/SemanticKernel.API/obj/Debug/net9.0/SemanticKernel.API.pdb
 /Users/ilhanenesdanis/Desktop/DotnetProjects/SemanticKernelExample/SemanticKernel.API/obj/Debug/net9.0/SemanticKernel.API.genruntimeconfig.cache
 /Users/ilhanenesdanis/Desktop/DotnetProjects/SemanticKernelExample/SemanticKernel.API/obj/Debug/net9.0/ref/SemanticKernel.API.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/SemanticKernelExample/SemanticKernel.API/obj/Debug/net9.0/SemanticKernel.API.sourcelink.json
